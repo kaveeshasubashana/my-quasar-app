@@ -1,5 +1,5 @@
 <template>
-  <q-item clickable tag="router-link" :to="{ path: '/about' }">
+  <q-item clickable tag="router-link" :to="link">
     <q-item-section v-if="props.icon" avatar>
       <q-icon :name="props.icon" />
     </q-item-section>
