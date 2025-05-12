@@ -4,7 +4,7 @@
       <q-toolbar>
         <q-btn flat dense round icon="menu" aria-label="Menu" @click="toggleLeftDrawer" />
 
-        <q-toolbar-title> my fiest app </q-toolbar-title>
+        <q-toolbar-title> my frist app </q-toolbar-title>
 
         <div>version 1.0.0</div>
       </q-toolbar>
