@@ -6,7 +6,7 @@
 
         <q-toolbar-title> my fiest app </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>version 1.0.0</div>
       </q-toolbar>
     </q-header>
 
